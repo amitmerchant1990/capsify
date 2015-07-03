@@ -3,7 +3,7 @@
 	(c) 2013 Amit Merchant
 	updated: 2015-07-03
 	license: MIT
-	http://amitmerchant1990.github.io/urlcolorup
+	http://amitmerchant1990.github.io/capsify
 */
 (function($){
  
