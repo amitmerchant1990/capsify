@@ -1,26 +1,20 @@
 {
-  "dependencies": {
-    "jQuery": "~1.7.3"
-  },
-  "devDependencies": {
-    "grunt": "~0.3.14"
-  },
+  "name": "capsify",
+  "version": "1.0.0",
+  "description": "A jQuery plugin to make text upper and lower case on-the-go.",
+  "main": "index.js",
   "scripts": {
-    "test": "grunt travis --verbose"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "name": "jquery-capsify",
-  "description": "jQuery Capsify",
-  "version": "1.0",
-  "main": "1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amitmerchant1990/capsify.git"
   },
   "keywords": [
-    "input",
-    "capslock",
     "text",
-    "modify",
+    "textare",
+    "capslock",
+    "jquery-plugin",
     "custom"
   ],
   "author": "Amit Merchant",
