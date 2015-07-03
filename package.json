@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "jQuery": "~1.7.3"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.14"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "name": "jquery-capsify",
+  "description": "jQuery Capsify",
+  "version": "1.0",
+  "main": "1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitmerchant1990/capsify.git"
+  },
+  "keywords": [
+    "input",
+    "capslock",
+    "text",
+    "modify",
+    "custom"
+  ],
+  "author": "Amit Merchant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amitmerchant1990/capsify/issues"
+  },
+  "homepage": "https://github.com/amitmerchant1990/capsify#readme"
+}
