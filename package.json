@@ -1,6 +1,6 @@
 {
   "name": "capsify",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A jQuery plugin to make text upper and lower case on-the-go.",
   "main": "index.js",
   "scripts": {
