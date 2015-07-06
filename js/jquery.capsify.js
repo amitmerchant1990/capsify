@@ -1,7 +1,7 @@
 /*!
 	jQuery Capsify v1.0
-	(c) 2013 Amit Merchant
-	updated: 2015-07-03
+	(c) 2015 Amit Merchant
+	updated: 2015-07-06
 	license: MIT
 	http://amitmerchant1990.github.io/capsify
 */
